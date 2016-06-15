@@ -1,0 +1,14 @@
+layout_spectrum: 1
+typography_spectrum: 0.2082631
+color:
+  saturation: 0.3243773
+  lightness: 0.798788
+  brandStrength: 0.5092749
+  brandColors:
+    - '#212D5D'
+    - '#DFE1DC'
+    - '#5D95B4'
+    - '#467295'
+    - '#83B3CA'
+  rhythmicContrast: 0.01708387
+name: 'Rm#1'
